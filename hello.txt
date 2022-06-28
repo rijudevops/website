@@ -1,1 +1,13 @@
-Hello World!
+Ubuntu-
+
+sudo apt-get install git
+git --version 
+git init
+git add .
+git commit -m "First Commit"
+git status
+git config --global user.email "tamoghnadevops@gmail.com"
+git config --global user.name "rijudevops"
+git remote add origin "https://www.github.com/rijudevops/website.git"
+git push -u origin master
+https://github.com/settings/tokens
