@@ -1,3 +1,10 @@
+RedHat/ CentOS-
+
+sudo yum update
+sudo yum install git
+git --version 
+
+
 Ubuntu-
 
 sudo apt-get install git
